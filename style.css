@@ -1,0 +1,30 @@
+h1{
+    
+font-family: 'PT Serif', serif;
+font-size: 50px;
+}
+.flexible-container{
+    display: flex;
+   
+    
+}
+.half-width{
+    width: 50%;
+    
+    
+}
+.half-width img{
+    width: 40%;
+}
+.text-color{
+color: orange;
+}
+#stay-focused{
+    border-left: 5px solid blueviolet;
+    height: 130px;
+    padding-left: 10px;
+   
+  
+    
+}
+
