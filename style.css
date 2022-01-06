@@ -39,7 +39,7 @@ color: orange;
 .link-button{
     text-decoration: none;
     background-color: white;
-    background-image: linear-gradient(rgba(146, 155, 13, 0.425),rgb(190, 25, 33));
+    background-image: linear-gradient(tomato,orange);
     font-weight: 700px;
     padding: 10px 20px;
     border-radius: 5px;
@@ -77,8 +77,8 @@ color: orange;
 
 
 #coding-image{
-    width: 70%;
-    margin-left: 100px;
+    width: 60%;
+    margin-left: 150px;
     ;
     
 }
@@ -87,10 +87,11 @@ color: orange;
     background-image: url(shapes/shape-1.png);
     background-position: left;
     background-repeat: no-repeat;
-   background-size: 350px;
+   background-size: 400px;
 }
 .text-width{
-    width: 50%;
-    margin-left: 0;
-    margin-right: 200px;
+    width: 60%;
+
+    margin-right:200px ;
+    margin-top: 100px;
 }
