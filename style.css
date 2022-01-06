@@ -3,6 +3,9 @@ h1{
 font-family: 'PT Serif', serif;
 font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .flexible-container{
     display: flex;
    
@@ -72,3 +75,22 @@ color: orange;
     width: 35%;
 }
 
+
+#coding-image{
+    width: 70%;
+    margin-left: 100px;
+    ;
+    
+}
+.section-three{
+    margin-top: 100px;
+    background-image: url(shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+   background-size: 350px;
+}
+.text-width{
+    width: 50%;
+    margin-left: 0;
+    margin-right: 200px;
+}
