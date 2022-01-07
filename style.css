@@ -48,7 +48,7 @@ color: orange;
     
 
 }
-#text-position{
+.text-position{
     text-align: center;
 }
 .one-third{
@@ -119,4 +119,7 @@ color: orange;
     margin-bottom: 90px;
 
    
+}
+#app-image{
+    width: 50%;
 }
